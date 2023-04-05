@@ -1,3 +1,9 @@
+# Mac fixes
+.DS_Store
+
+# uplink binding
+uplink-nodejs/
+
 # Logs
 logs
 *.log
